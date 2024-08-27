@@ -1,7 +1,7 @@
 # Data_Science_Portfolio
 ## Supervised Learning
 ### Classification
-- Binary Prediction of Poisonous Mushrooms [(notebook)](Binary Prediction of Poisonous Mushrooms/binary-prediction-of-poisonous-mushrooms.ipynb)
+- Binary Prediction of Poisonous Mushrooms [(notebook)](Binary_Prediction_of_Poisonous_Mushrooms/binary-prediction-of-poisonous-mushrooms.ipynb)
 - Titanic Survivor Classification [(notebook)](Titanic_Survivor_Classification/titanic-machine-learning-from-disaster.ipynb)
 ## Unsupervised Learning
 ### Clustering
