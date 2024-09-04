@@ -3,6 +3,8 @@
 ### Classification
 - Binary Prediction of Poisonous Mushrooms [(notebook)](Binary_Prediction_of_Poisonous_Mushrooms/binary-prediction-of-poisonous-mushrooms.ipynb)
 - Titanic Survivor Classification [(notebook)](Titanic_Survivor_Classification/titanic-machine-learning-from-disaster.ipynb)
+### Regression
+- House Prices Prediction [(notebook)](House_Prices_Prediction/house-prices-prediction.ipynb)
 ## Unsupervised Learning
 ### Clustering
 - Customer Segmentation in Marketing [(notebook)](Customer_Segmentation_in_Marketing/customer-segmentation-in-marketing.ipynb)
