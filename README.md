@@ -5,6 +5,7 @@
 - [Titanic Survivor Classification](Titanic_Survivor_Classification/titanic-machine-learning-from-disaster.ipynb): Top 5% in the Kaggle competition
 ### Regression
 - [Harry Reid International (LAS) Airport Passenger Volume Time Series Forecast](Harry_Reid_Intl_Airport_Passenger_Volume_Forecast/harry-reid-international-airport-passengers.ipynb): Project
+- [Store Sales - Time Series Forecasting](a): Top 25% in the Kaggle competition
 - [House Prices Prediction](House_Prices_Prediction/house-prices-prediction.ipynb): Top 6% in the Kaggle competition
 ## Unsupervised Learning
 ### Clustering
