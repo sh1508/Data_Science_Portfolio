@@ -11,6 +11,6 @@
 ### Clustering
 - [Customer Segmentation in Marketing](Customer_Segmentation_in_Marketing/customer-segmentation-in-marketing.ipynb): Project
 ### Dimensionality Reduction
-- [Music Genre Classification with PCA](Music_Genre_Classification_with_PCA/music-genre-classification-with-pca.ipynb):Project
+- [Music Genre Classification with PCA](Music_Genre_Classification_with_PCA/music-genre-classification-with-pca.ipynb): Project
 
 *** The competition results are based on the score at the time of submission
