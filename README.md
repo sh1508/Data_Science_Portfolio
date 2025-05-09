@@ -16,5 +16,5 @@
 *** The competition results are based on the score at the time of submission
 
 # Data_Analysis_Portfolio
-### [Understanding Compound Interest Rate (Three Most Important Principles)]()
+- [Understanding Compound Interest: The Three Most Important Principles]()
 
